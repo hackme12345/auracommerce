@@ -1,0 +1,6 @@
+{
+  "name": "AuraCommerce AI",
+  "description": "Obsidian & Champagne SaaS suite for high-ticket e-commerce: generate viral TikTok hooks, high-conversion Amazon/Shopify copy, neuro-targeted Meta ads, and competitor gap teardowns powered by Gemini 3.8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
